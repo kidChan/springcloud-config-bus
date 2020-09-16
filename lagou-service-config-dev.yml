@@ -9,7 +9,7 @@ config:
       seeother: 您频繁进⾏注册，请求已被拒绝！
       unauthorize: 您的请求没有授权，请登录或注册后再访问！
   email:
-    host: smtp.163.com
+    host: smtp.qq.com
     sender:
       name: 
       password: 
