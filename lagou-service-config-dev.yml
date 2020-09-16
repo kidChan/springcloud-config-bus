@@ -11,7 +11,7 @@ config:
   email:
     host: smtp.qq.com
     username: 499209285@qq.com
-    password: rmfbgccrmqibbihd
+    password: eqvifdctcaqlbicc
     default-encodeing: UTF-8
     from: 499209285@qq.com
     templates:
